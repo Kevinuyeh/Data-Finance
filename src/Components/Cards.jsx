@@ -16,7 +16,7 @@ const Cards = () => {
                 <p className='py-2 border-b mx-8'>1 Granted User</p>
                 <p className='py-2 border-b mx-8'>send up to 2GB</p>
             </div>
-            <button className='bg-[#00df98] w-[200px] rounded-full font-medium mx-auto my-6 px-6 py-3 text-black'>Start Trial</button>
+            <button className='bg-[#0492c2] w-[200px] rounded-full font-medium mx-auto my-6 px-6 py-3 text-black'>Start Trial</button>
            </div>
 
            <div className='w-full shadow-xl bg-gray-100 flex flex-col p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300'>
@@ -28,7 +28,7 @@ const Cards = () => {
                 <p className='py-2 border-b mx-8'>2 Granted Users</p>
                 <p className='py-2 border-b mx-8'>send up to 4GB</p>
             </div>
-            <button className='bg-black w-[200px] rounded-full font-medium mx-auto my-6 px-6 py-3 text-[#00df98]'>Start Trial</button>
+            <button className='bg-black w-[200px] rounded-full font-medium mx-auto my-6 px-6 py-3 text-[#0492c2]'>Start Trial</button>
            </div>
 
            <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
@@ -40,7 +40,7 @@ const Cards = () => {
                 <p className='py-2 border-b mx-8'>3 Granted Users</p>
                 <p className='py-2 border-b mx-8'>send up to 6GB</p>
             </div>
-            <button className='bg-[#00df98] w-[200px] rounded-full font-medium mx-auto my-6 px-6 py-3 text-black'>Start Trial</button>
+            <button className='bg-[#0492c2] w-[200px] rounded-full font-medium mx-auto my-6 px-6 py-3 text-black'>Start Trial</button>
            </div>
         </div>
     </div>
